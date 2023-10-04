@@ -1,0 +1,12 @@
+
+public class ifelsecondition {
+	public static void main (String[]args) {
+		if (20>11) {
+		}else {
+			(20<11)
+		}
+			System.out.println("20 is greater than 11");
+		}
+	}
+
+}
